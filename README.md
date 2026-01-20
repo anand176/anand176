@@ -1,4 +1,4 @@
-# Hi there, I'm Anand Harikrishnan! 👋
+# Hi there, I'm Anand Harikrishnan! 
 
 ### 🚀 Software Engineer | AI & Cloud Enthusiast
 I'm a passionate Software Engineer currently at **Abilytics Inc**, specializing in building intelligent, scalable systems, microservices architecture, and cloud-native solutions.
