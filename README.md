@@ -4,7 +4,6 @@
 
 Building intelligent, scalable systems at the intersection of microservices architecture, cloud-native infrastructure, and applied AI. I care about clean APIs, observable systems, and shipping things that actually work.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anand176)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anand-harikrishnan-04b2a5214/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/anand170/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anandharikrishnan14@gmail.com)
