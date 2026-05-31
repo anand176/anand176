@@ -1,43 +1,94 @@
-# Hi there, I'm Anand Harikrishnan! 
+# Anand Harikrishnan
 
-###  Software Engineer | AI & Cloud Enthusiast
-I'm a passionate Software Engineer currently at **Abilytics Inc**, specializing in building intelligent, scalable systems, microservices architecture, and cloud-native solutions.
+**Software Engineer · AI & Cloud · Abilytics Inc**
+
+Building intelligent, scalable systems at the intersection of microservices architecture, cloud-native infrastructure, and applied AI. I care about clean APIs, observable systems, and shipping things that actually work.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anand176)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anand-harikrishnan-04b2a5214/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/anand170/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anandharikrishnan14@gmail.com)
 
 ---
 
-### 💻 Stack & Tools
+## GitHub stats
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,react,html,css,postgres,docker,github,aws,py&theme=dark" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=anand176&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand176&layout=compact&theme=default&hide_border=true" />
 </p>
 
-- **Core**: FastAPI, React, HTML5, CSS3
-- **Database**: PostgreSQL, Redis
-- **DevOps**: Docker, AWS, CI/CD
-- **AI/ML**: Google ADK, TensorFlow, Pandas
+<img src="https://github-readme-streak-stats.herokuapp.com?user=anand176&theme=default&hide_border=true" height="150" />
 
 ---
 
-### 🏆 Professional Highlights & Achievements
-- ☁️ **AWS Certified Cloud Practitioner**: Proficient in architecting and deploying scalable cloud solutions.
-- 📄 **IEEE Published Author**: Co-authored a paper on migrating monolithic applications to microservices.
-- 🚀 **Software Engineer**: Architecting microservices and integrating multi-platform APIs at Abilytics Inc.
+## Stack
+
+**Backend & APIs**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**AI / ML**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat-square&logo=google&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+
+**DevOps & Cloud**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-### 🛠️ Featured Projects
-- **SentinelAI**: Full-stack video anomaly detection platform using CNNs and LSTM.
-- **Log Advisor**: Intelligent log analysis system using ML to detect anomalies in system logs.
-- **AssignEase**: AI-powered academic support application available on Google Play Store.
+## Featured projects
+
+### SentinelAI
+Full-stack video anomaly detection platform. Combines CNN-based spatial feature extraction with LSTM temporal modelling to flag anomalous activity in real-time surveillance streams. Built with a FastAPI backend and React dashboard.
+
+`Python` `CNN` `LSTM` `FastAPI` `React` `PostgreSQL`
 
 ---
 
-### 🔗 Connect With Me
-<p align="left">
-<a href="https://github.com/anand176" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Anand's GitHub" /></a>
-<a href="https://leetcode.com/u/anand170/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Anand's LeetCode" /></a>
-<a href="https://linkedin.com/in/anand-harikrishnan-04b2a5214/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Anand's LinkedIn" /></a>
-<a href="mailto:anandharikrishnan14@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Anand's Email" /></a>
-</p>
+### Pitchmate
+AI pitch co-pilot for startup founders. A multi-agent system built with Google ADK (Gemini 2.5 Flash) that reviews pitch decks, validates TAM/SAM/SOM, generates GTM strategy, drafts personalized investor cold emails, and produces due diligence Q&A packs and investor-ready PDFs — all through a chat interface. Backed by pgvector semantic search over uploaded decks and docs, with Figma MCP integration for slide-level visual design feedback.
+
+`FastAPI` `Google ADK` `Gemini 2.5 Flash` `Supabase` `pgvector` `React` `Vite` `MCP`
 
 ---
+
+### What's happening in Kerala
+Real-time command-centre dashboard for Kerala with a dark Grafana-inspired UI. Aggregates live weather and AQI for all 14 districts, USGS seismic data, NIFTY/SENSEX market indices, INR forex rates, fuel and gold prices, merged RSS news feeds, embedded YouTube live news streams, and an interactive Leaflet district map — all served from a single Next.js app with server-side API routes.
+
+`Next.js 16` `React 19` `TypeScript` `Tailwind CSS v4` `Leaflet` `Open-Meteo` `USGS` `Yahoo Finance`
+
+---
+
+## Certifications & publications
+
+| | |
+|---|---|
+| **AWS Certified Cloud Practitioner** | Amazon Web Services — cloud architecture, IAM, core services |
+| **IEEE Published Author** | Co-authored research on monolithic-to-microservices migration strategies and service mesh patterns |
+
+---
+
 *"Building the future, one microservice at a time."*
