@@ -11,17 +11,6 @@ Building intelligent, scalable systems at the intersection of microservices arch
 
 ---
 
-## GitHub stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=anand176&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand176&layout=compact&theme=default&hide_border=true" />
-</p>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=anand176&theme=default&hide_border=true" height="150" />
-
----
-
 ## Stack
 
 **Backend & APIs**
@@ -61,21 +50,21 @@ Building intelligent, scalable systems at the intersection of microservices arch
 
 ## Featured projects
 
-### SentinelAI
+### [SentinelAI](https://github.com/anand176/SentinelAI)
 Full-stack video anomaly detection platform. Combines CNN-based spatial feature extraction with LSTM temporal modelling to flag anomalous activity in real-time surveillance streams. Built with a FastAPI backend and React dashboard.
 
 `Python` `CNN` `LSTM` `FastAPI` `React` `PostgreSQL`
 
 ---
 
-### Pitchmate
+### [Pitchmate](https://github.com/anand176/Pitchmate)
 AI pitch co-pilot for startup founders. A multi-agent system built with Google ADK (Gemini 2.5 Flash) that reviews pitch decks, validates TAM/SAM/SOM, generates GTM strategy, drafts personalized investor cold emails, and produces due diligence Q&A packs and investor-ready PDFs — all through a chat interface. Backed by pgvector semantic search over uploaded decks and docs, with Figma MCP integration for slide-level visual design feedback.
 
 `FastAPI` `Google ADK` `Gemini 2.5 Flash` `Supabase` `pgvector` `React` `Vite` `MCP`
 
 ---
 
-### What's happening in Kerala
+### [What's happening in Kerala](https://github.com/anand176/what-s-happening-in-kerala)
 Real-time command-centre dashboard for Kerala with a dark Grafana-inspired UI. Aggregates live weather and AQI for all 14 districts, USGS seismic data, NIFTY/SENSEX market indices, INR forex rates, fuel and gold prices, merged RSS news feeds, embedded YouTube live news streams, and an interactive Leaflet district map — all served from a single Next.js app with server-side API routes.
 
 `Next.js 16` `React 19` `TypeScript` `Tailwind CSS v4` `Leaflet` `Open-Meteo` `USGS` `Yahoo Finance`
