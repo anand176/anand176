@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="804" height="772" viewBox="0 0 804 772" role="img" aria-label="ASCII portrait: anand176">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="804" height="470" viewBox="0 0 804 470" role="img" aria-label="ASCII portrait: anand176">
   <defs>
     <linearGradient id="pt-anand176-github-dark-bg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#111722"/><stop offset="1" stop-color="#0b0e14"/>
     </linearGradient>
   </defs>
-  <rect x="0.5" y="0.5" width="803" height="771" rx="12" fill="url(#pt-anand176-github-dark-bg)" stroke="#2a3038"/>
+  <rect x="0.5" y="0.5" width="803" height="469" rx="12" fill="url(#pt-anand176-github-dark-bg)" stroke="#2a3038"/>
   <path d="M0.5 12 a11 11 0 0 1 11 -11 h781 a11 11 0 0 1 11 11 v22 h-803 z" fill="#161b22"/>
   <rect x="0.5" y="34" width="803" height="1" fill="#2a3038"/>
   <circle cx="22" cy="17.5" r="6" fill="#ff5f56"/><circle cx="42" cy="17.5" r="6" fill="#ffbd2e"/><circle cx="62" cy="17.5" r="6" fill="#27c93f"/>
-  <text x="402" y="22" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#8b949e">anand176@github: ~$ ./portrait.sh</text>
-  
-
-
+  <g transform="translate(0,-162)">
 
 
 
@@ -102,6 +99,7 @@
 <clipPath id="pt-anand176-github-dark-r37"><rect x="18" y="596.2" height="15" width="0"><animate attributeName="width" from="0" to="768" begin="1.896s" dur="0.046s" fill="freeze"/></rect></clipPath>
   <g clip-path="url(#pt-anand176-github-dark-r37)"><text xml:space="preserve" x="18" y="607.6" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="13.8" fill="#c9d1d9">                                                -------</text></g>
   <rect y="597.2" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="18" to="786" begin="1.896s" dur="0.046s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="1.896s"/><set attributeName="opacity" to="0" begin="1.942s"/></rect>
+  </g>
 
 
 
@@ -112,5 +110,4 @@
 
 
 
-  <text x="791" y="761" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="10" font-weight="600" letter-spacing="0.3" fill="#8b949e" fill-opacity="0.42">gitskins.com</text>
 </svg>

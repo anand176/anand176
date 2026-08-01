@@ -14,14 +14,6 @@
 </table>
 </div>
 
-<div align="center">
-<h3><code>anand176@github ~ $ ./contributions.sh</code></h3>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/heatmap-light.svg" />
-  <img src="./assets/heatmap-dark.svg" width="100%" alt="anand176 heatmap" />
-</picture>
-</div>
-
 ---
 
 # Anand Harikrishnan
