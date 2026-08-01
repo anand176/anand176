@@ -1,6 +1,5 @@
 <div align="center">
-<h3><code>anand176@github ~ $ whoami</code></h3>
-<table>
+<table width="100%">
 <tr>
 <td width="42%" valign="top"><picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/portrait-light.svg" />
