@@ -1,3 +1,29 @@
+<div align="center">
+<h3><code>anand176@github ~ $ whoami</code></h3>
+<table>
+<tr>
+<td width="42%" valign="top"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/portrait-light.svg" />
+  <img src="./assets/portrait-dark.svg" width="100%" alt="anand176 portrait" />
+</picture></td>
+<td width="58%" valign="top"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/wordmark-light.svg" />
+  <img src="./assets/wordmark-dark.svg" width="100%" alt="anand176 wordmark" />
+</picture></td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<h3><code>anand176@github ~ $ ./contributions.sh</code></h3>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/heatmap-light.svg" />
+  <img src="./assets/heatmap-dark.svg" width="100%" alt="anand176 heatmap" />
+</picture>
+</div>
+
+---
+
 # Anand Harikrishnan
 
 **Software Engineer · AI & Cloud · Abilytics Inc**
